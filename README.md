@@ -90,4 +90,4 @@ Appuyez sur Entrée pour afficher le menu.
 
 ## 👤 Auteur
 
-**Jean Dupont** — Projet réalisé dans le cadre d'un exercice de programmation C#.
+**Salomon TSHAUKE MULUMBA** — Projet réalisé dans le cadre d'un exercice de programmation C#.
