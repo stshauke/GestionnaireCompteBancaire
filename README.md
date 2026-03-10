@@ -49,7 +49,7 @@ GestionnaireCompteBancaire/
 
 1. Clonez le dépôt :
 ```bash
-   git clone https://github.com/votre-utilisateur/GestionnaireCompteBancaire.git
+   git clone https://github.com/stshauke/GestionnaireCompteBancaire.git
 ```
 2. Ouvrez le fichier `.sln` dans **Visual Studio**
 3. Appuyez sur **F5** pour lancer l'application
